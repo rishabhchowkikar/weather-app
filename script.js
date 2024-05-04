@@ -1,6 +1,6 @@
 const city_name = document.querySelector(".inputText");
 const button = document.querySelector(".button");
-const api_key = "c08674d12cf9fb116ddab3e510b2310b";
+const api_key = "API_key";
 const weatherIcon = document.querySelector(".weather-icon");
 
 button.addEventListener("click", () => {
